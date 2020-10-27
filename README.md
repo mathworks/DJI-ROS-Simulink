@@ -12,10 +12,10 @@ In this example, you will learn how to:
 # Requirements
 We use the following tools within this demonstration:
 
-MATLAB (≥2020b)
-Simulink Coder
-ROS Toolbox
-UAV Toolbox 
+1. MATLAB (≥2020b)
+1. Simulink Coder
+1. ROS Toolbox
+1. UAV Toolbox
 
 # Setup
 Download and follow the steps mentioned in [this document](https://github.com/mathworks/DJI-ROS-Simulink/blob/main/Setup%20Document.docx) to setup the Host computer and your compute board.
