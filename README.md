@@ -23,7 +23,7 @@ Download and follow the steps mentioned in [this document](https://github.com/ma
 # Getting Started
 After the above setup is done, clone the repository, open the [live script](https://github.com/mathworks/DJI-ROS-Simulink/blob/main/DJIROSWayPointFollowerExample.mlx) from MATLAB and follow the steps.
 
-[![View DJI-ROS-Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/81888-dji-ros-simulink)
-
 # Copyright
 Copyright © 2020 The MathWorks, Inc.
+
+[![View DJI-ROS-Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/81888-dji-ros-simulink)
