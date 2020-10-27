@@ -1,2 +1,11 @@
 # DJI-ROS-Simulink
 Design a Path Follower with a DJI®  N3 Autopilot and NVIDIA® Jetson Nano using DJI Onboard ROS SDK
+
+This example shows how to use UAV Toolbox and ROS Toolbox to design a waypoint follower for a quadcopter that uses DJI N3 Autopilot.
+This example uses DJI Onboard SDK which provides a ROS wrapper that is used to interface with the ROS Toolbox.
+In this example, you will learn how to:
+1. Configure a Simulink model which defines a quadcopter mission of a DJI N3 Flight Controller by using a set of waypoints, by using UAV Toolbox and ROS Toolbox
+2. Start DJI Onboard ROS SDK on a Compute board
+3. Set up the required custom messages using ROS Toolbox on the host computer
+4. Simulate and deploy the Simulink model on the Compute board
+
