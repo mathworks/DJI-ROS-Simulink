@@ -9,3 +9,6 @@ In this example, you will learn how to:
 3. Set up the required custom messages using ROS Toolbox on the host computer
 4. Simulate and deploy the Simulink model on the Compute board
 
+Download and follow the steps mentioned in [this document](https://github.com/mathworks/DJI-ROS-Simulink/blob/main/Setup%20Document.docx) to setup the Host computer and your compute board.
+
+After the above setup is done, clone the repository, open the [live script](https://github.com/mathworks/DJI-ROS-Simulink/blob/main/DJIROSWayPointFollowerExample.mlx) from MATLAB and follow the steps.
